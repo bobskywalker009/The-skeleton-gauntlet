@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: f141aca94ec0905449b86bd7944d1aae
+timeCreated: 1461165454
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Back Lights
+    100002: Black Edges
+    100004: Board MPH
+    100006: Body
+    100008: Bone
+    100010: Bottom
+    100012: Brake Disks
+    100014: Brakes
+    100016: Bulbs
+    100018: Bulbs Front
+    100020: Bulbs Front 2
+    100022: Camera_Perspective41
+    100024: car
+    100026: Chrome
+    100028: Dash Board
+    100030: //RootNode
+    100032: Door Edges
+    100034: Engine
+    100036: Exhaust
+    100038: Filters
+    100040: Glass
+    100042: Glass Light Front
+    100044: Interior
+    100046: License
+    100048: Light Container Front
+    100050: Light Rear Orage
+    100052: Light Rear White
+    100054: LightPreset
+    100056: LightRear Glass
+    100058: Lights
+    100060: Logo Back
+    100062: Logo Outer
+    100064: Mirrors
+    100066: Orange Lights
+    100068: Plane
+    100070: Seats
+    100072: Sky Light
+    100074: Sun Light
+    100076: Tire BL
+    100078: Tire BR
+    100080: Tire FL
+    100082: Tire FR
+    100084: WheelPlates
+    100086: Window Edges
+    100088: Window Lower Sheilds
+    100090: Window Sheild
+    100092: Wipres
+    400000: Back Lights
+    400002: Black Edges
+    400004: Board MPH
+    400006: Body
+    400008: Bone
+    400010: Bottom
+    400012: Brake Disks
+    400014: Brakes
+    400016: Bulbs
+    400018: Bulbs Front
+    400020: Bulbs Front 2
+    400022: Camera_Perspective41
+    400024: car
+    400026: Chrome
+    400028: Dash Board
+    400030: //RootNode
+    400032: Door Edges
+    400034: Engine
+    400036: Exhaust
+    400038: Filters
+    400040: Glass
+    400042: Glass Light Front
+    400044: Interior
+    400046: License
+    400048: Light Container Front
+    400050: Light Rear Orage
+    400052: Light Rear White
+    400054: LightPreset
+    400056: LightRear Glass
+    400058: Lights
+    400060: Logo Back
+    400062: Logo Outer
+    400064: Mirrors
+    400066: Orange Lights
+    400068: Plane
+    400070: Seats
+    400072: Sky Light
+    400074: Sun Light
+    400076: Tire BL
+    400078: Tire BR
+    400080: Tire FL
+    400082: Tire FR
+    400084: WheelPlates
+    400086: Window Edges
+    400088: Window Lower Sheilds
+    400090: Window Sheild
+    400092: Wipres
+    2300000: Back Lights
+    2300002: Black Edges
+    2300004: Board MPH
+    2300006: Body
+    2300008: Bottom
+    2300010: Brake Disks
+    2300012: Brakes
+    2300014: Bulbs
+    2300016: Bulbs Front
+    2300018: Bulbs Front 2
+    2300020: Chrome
+    2300022: Dash Board
+    2300024: Door Edges
+    2300026: Engine
+    2300028: Exhaust
+    2300030: Filters
+    2300032: Glass
+    2300034: Glass Light Front
+    2300036: Interior
+    2300038: License
+    2300040: Light Container Front
+    2300042: Light Rear Orage
+    2300044: Light Rear White
+    2300046: LightRear Glass
+    2300048: Lights
+    2300050: Logo Back
+    2300052: Logo Outer
+    2300054: Mirrors
+    2300056: Orange Lights
+    2300058: Plane
+    2300060: Seats
+    2300062: Tire BL
+    2300064: Tire BR
+    2300066: Tire FL
+    2300068: Tire FR
+    2300070: WheelPlates
+    2300072: Window Edges
+    2300074: Window Lower Sheilds
+    2300076: Window Sheild
+    2300078: Wipres
+    3300000: Back Lights
+    3300002: Black Edges
+    3300004: Board MPH
+    3300006: Body
+    3300008: Bottom
+    3300010: Brake Disks
+    3300012: Brakes
+    3300014: Bulbs
+    3300016: Bulbs Front
+    3300018: Bulbs Front 2
+    3300020: Chrome
+    3300022: Dash Board
+    3300024: Door Edges
+    3300026: Engine
+    3300028: Exhaust
+    3300030: Filters
+    3300032: Glass
+    3300034: Glass Light Front
+    3300036: Interior
+    3300038: License
+    3300040: Light Container Front
+    3300042: Light Rear Orage
+    3300044: Light Rear White
+    3300046: LightRear Glass
+    3300048: Lights
+    3300050: Logo Back
+    3300052: Logo Outer
+    3300054: Mirrors
+    3300056: Orange Lights
+    3300058: Plane
+    3300060: Seats
+    3300062: Tire BL
+    3300064: Tire BR
+    3300066: Tire FL
+    3300068: Tire FR
+    3300070: WheelPlates
+    3300072: Window Edges
+    3300074: Window Lower Sheilds
+    3300076: Window Sheild
+    3300078: Wipres
+    4300000: Window Edges
+    4300002: Brakes
+    4300004: Door Edges
+    4300006: Window Sheild
+    4300008: Body
+    4300010: Wipres
+    4300012: Glass Light Front
+    4300014: Exhaust
+    4300016: Tire FR
+    4300018: Tire BR
+    4300020: Glass
+    4300022: Light Container Front
+    4300024: Dash Board
+    4300026: Lights
+    4300028: Logo Outer
+    4300030: Logo Back
+    4300032: LightRear Glass
+    4300034: Board MPH
+    4300036: Black Edges
+    4300038: Back Lights
+    4300040: Seats
+    4300042: Orange Lights
+    4300044: Light Rear White
+    4300046: Bulbs
+    4300048: License
+    4300050: Filters
+    4300052: Interior
+    4300054: Tire BL
+    4300056: Chrome
+    4300058: Window Lower Sheilds
+    4300060: Bulbs Front
+    4300062: Mirrors
+    4300064: Bulbs Front 2
+    4300066: Engine
+    4300068: WheelPlates
+    4300070: Bottom
+    4300072: Brake Disks
+    4300074: Tire FL
+    4300076: Light Rear Orage
+    4300078: Plane
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

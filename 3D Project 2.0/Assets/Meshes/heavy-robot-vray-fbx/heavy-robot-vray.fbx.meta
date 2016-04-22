@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: c88ef86c21b1b4548be0be5f2d331727
+timeCreated: 1461167046
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BackLight
+    100002: Bip01
+    100004: Bip01 Head
+    100006: Bip01 L 10
+    100008: Bip01 L 11
+    100010: Bip01 L 12
+    100012: Bip01 L 13
+    100014: Bip01 L 14
+    100016: Bip01 L 15
+    100018: Bip01 L 16
+    100020: Bip01 L 17
+    100022: Bip01 L 18
+    100024: Bip01 L 19
+    100026: Bip01 L Ca
+    100028: Bip01 L Cl
+    100030: Bip01 L F0
+    100032: Bip01 L F1
+    100034: Bip01 L F2
+    100036: Bip01 L F3
+    100038: Bip01 L F4
+    100040: Bip01 L F5
+    100042: Bip01 L F6
+    100044: Bip01 L F7
+    100046: Bip01 L F8
+    100048: Bip01 L F9
+    100050: Bip01 L Fi
+    100052: Bip01 L Fo
+    100054: Bip01 L Ha
+    100056: Bip01 L T0
+    100058: Bip01 L Th
+    100060: Bip01 L To
+    100062: Bip01 L Up
+    100064: Bip01 Neck
+    100066: Bip01 Pelv
+    100068: Bip01 R 10
+    100070: Bip01 R 11
+    100072: Bip01 R 12
+    100074: Bip01 R 13
+    100076: Bip01 R 14
+    100078: Bip01 R 15
+    100080: Bip01 R 16
+    100082: Bip01 R 17
+    100084: Bip01 R 18
+    100086: Bip01 R 19
+    100088: Bip01 R Ca
+    100090: Bip01 R Cl
+    100092: Bip01 R F0
+    100094: Bip01 R F1
+    100096: Bip01 R F2
+    100098: Bip01 R F3
+    100100: Bip01 R F4
+    100102: Bip01 R F5
+    100104: Bip01 R F6
+    100106: Bip01 R F7
+    100108: Bip01 R F8
+    100110: Bip01 R F9
+    100112: Bip01 R Fi
+    100114: Bip01 R Fo
+    100116: Bip01 R Ha
+    100118: Bip01 R T0
+    100120: Bip01 R Th
+    100122: Bip01 R To
+    100124: Bip01 R Up
+    100126: Bip01 Spi0
+    100128: Bip01 Spi1
+    100130: Bip01 Spin
+    100132: Camera
+    100134: CameraPreset
+    100136: Componen12
+    100138: Componen21
+    100140: Componen29
+    100142: Componen30
+    100144: Componen32
+    100146: Componen33
+    100148: Componen38
+    100150: Componen39
+    100152: Componen52
+    100154: Componen56
+    100156: Componen57
+    100158: Componen61
+    100160: Componen62
+    100162: Componen70
+    100164: Componen71
+    100166: FillLight
+    100168: Group01
+    100170: //RootNode
+    100172: KeyLight
+    100174: LightPreset
+    100176: Mesh101
+    100178: Mesh103
+    100180: Mesh106
+    100182: Mesh108
+    100184: Mesh113
+    100186: Mesh117
+    100188: Mesh120
+    100190: Mesh123
+    100192: Mesh22
+    100194: Mesh31
+    100196: Mesh43
+    100198: Mesh47
+    100200: Mesh50
+    100202: Mesh53
+    100204: Mesh55
+    100206: Mesh57
+    100208: Mesh60
+    100210: Mesh62
+    100212: Mesh65
+    100214: Mesh67
+    100216: Mesh79
+    100218: Mesh96
+    100220: Mesh99
+    100222: Object038
+    100224: Object040
+    100226: Object047
+    100228: Object057
+    100230: Object068
+    100232: Object069
+    100234: Object077
+    100236: Object079
+    100238: Object080
+    100240: Object081
+    100242: Object082
+    100244: Object083
+    100246: Plane
+    100248: TurnTableCamera
+    100250: "\uCDF8\u8DB3?"
+    400000: BackLight
+    400002: Bip01
+    400004: Bip01 Head
+    400006: Bip01 L 10
+    400008: Bip01 L 11
+    400010: Bip01 L 12
+    400012: Bip01 L 13
+    400014: Bip01 L 14
+    400016: Bip01 L 15
+    400018: Bip01 L 16
+    400020: Bip01 L 17
+    400022: Bip01 L 18
+    400024: Bip01 L 19
+    400026: Bip01 L Ca
+    400028: Bip01 L Cl
+    400030: Bip01 L F0
+    400032: Bip01 L F1
+    400034: Bip01 L F2
+    400036: Bip01 L F3
+    400038: Bip01 L F4
+    400040: Bip01 L F5
+    400042: Bip01 L F6
+    400044: Bip01 L F7
+    400046: Bip01 L F8
+    400048: Bip01 L F9
+    400050: Bip01 L Fi
+    400052: Bip01 L Fo
+    400054: Bip01 L Ha
+    400056: Bip01 L T0
+    400058: Bip01 L Th
+    400060: Bip01 L To
+    400062: Bip01 L Up
+    400064: Bip01 Neck
+    400066: Bip01 Pelv
+    400068: Bip01 R 10
+    400070: Bip01 R 11
+    400072: Bip01 R 12
+    400074: Bip01 R 13
+    400076: Bip01 R 14
+    400078: Bip01 R 15
+    400080: Bip01 R 16
+    400082: Bip01 R 17
+    400084: Bip01 R 18
+    400086: Bip01 R 19
+    400088: Bip01 R Ca
+    400090: Bip01 R Cl
+    400092: Bip01 R F0
+    400094: Bip01 R F1
+    400096: Bip01 R F2
+    400098: Bip01 R F3
+    400100: Bip01 R F4
+    400102: Bip01 R F5
+    400104: Bip01 R F6
+    400106: Bip01 R F7
+    400108: Bip01 R F8
+    400110: Bip01 R F9
+    400112: Bip01 R Fi
+    400114: Bip01 R Fo
+    400116: Bip01 R Ha
+    400118: Bip01 R T0
+    400120: Bip01 R Th
+    400122: Bip01 R To
+    400124: Bip01 R Up
+    400126: Bip01 Spi0
+    400128: Bip01 Spi1
+    400130: Bip01 Spin
+    400132: Camera
+    400134: CameraPreset
+    400136: Componen12
+    400138: Componen21
+    400140: Componen29
+    400142: Componen30
+    400144: Componen32
+    400146: Componen33
+    400148: Componen38
+    400150: Componen39
+    400152: Componen52
+    400154: Componen56
+    400156: Componen57
+    400158: Componen61
+    400160: Componen62
+    400162: Componen70
+    400164: Componen71
+    400166: FillLight
+    400168: Group01
+    400170: //RootNode
+    400172: KeyLight
+    400174: LightPreset
+    400176: Mesh101
+    400178: Mesh103
+    400180: Mesh106
+    400182: Mesh108
+    400184: Mesh113
+    400186: Mesh117
+    400188: Mesh120
+    400190: Mesh123
+    400192: Mesh22
+    400194: Mesh31
+    400196: Mesh43
+    400198: Mesh47
+    400200: Mesh50
+    400202: Mesh53
+    400204: Mesh55
+    400206: Mesh57
+    400208: Mesh60
+    400210: Mesh62
+    400212: Mesh65
+    400214: Mesh67
+    400216: Mesh79
+    400218: Mesh96
+    400220: Mesh99
+    400222: Object038
+    400224: Object040
+    400226: Object047
+    400228: Object057
+    400230: Object068
+    400232: Object069
+    400234: Object077
+    400236: Object079
+    400238: Object080
+    400240: Object081
+    400242: Object082
+    400244: Object083
+    400246: Plane
+    400248: TurnTableCamera
+    400250: "\uCDF8\u8DB3?"
+    2300000: Bip01
+    2300002: Bip01 Head
+    2300004: Bip01 L 11
+    2300006: Bip01 L 12
+    2300008: Bip01 L 13
+    2300010: Bip01 L 15
+    2300012: Bip01 L 16
+    2300014: Bip01 L 17
+    2300016: Bip01 L 19
+    2300018: Bip01 L Ca
+    2300020: Bip01 L Cl
+    2300022: Bip01 L F0
+    2300024: Bip01 L F1
+    2300026: Bip01 L F3
+    2300028: Bip01 L F4
+    2300030: Bip01 L F5
+    2300032: Bip01 L F7
+    2300034: Bip01 L F8
+    2300036: Bip01 L F9
+    2300038: Bip01 L Fi
+    2300040: Bip01 L Fo
+    2300042: Bip01 L Ha
+    2300044: Bip01 L Th
+    2300046: Bip01 L To
+    2300048: Bip01 L Up
+    2300050: Bip01 Neck
+    2300052: Bip01 Pelv
+    2300054: Bip01 R 11
+    2300056: Bip01 R 12
+    2300058: Bip01 R 13
+    2300060: Bip01 R 15
+    2300062: Bip01 R 16
+    2300064: Bip01 R 17
+    2300066: Bip01 R 19
+    2300068: Bip01 R Ca
+    2300070: Bip01 R Cl
+    2300072: Bip01 R F0
+    2300074: Bip01 R F1
+    2300076: Bip01 R F3
+    2300078: Bip01 R F4
+    2300080: Bip01 R F5
+    2300082: Bip01 R F7
+    2300084: Bip01 R F8
+    2300086: Bip01 R F9
+    2300088: Bip01 R Fi
+    2300090: Bip01 R Fo
+    2300092: Bip01 R Ha
+    2300094: Bip01 R Th
+    2300096: Bip01 R To
+    2300098: Bip01 R Up
+    2300100: Bip01 Spi0
+    2300102: Bip01 Spi1
+    2300104: Bip01 Spin
+    2300106: Componen12
+    2300108: Componen21
+    2300110: Componen29
+    2300112: Componen30
+    2300114: Componen32
+    2300116: Componen33
+    2300118: Componen38
+    2300120: Componen39
+    2300122: Componen52
+    2300124: Componen56
+    2300126: Componen57
+    2300128: Componen61
+    2300130: Componen62
+    2300132: Componen70
+    2300134: Componen71
+    2300136: Mesh101
+    2300138: Mesh103
+    2300140: Mesh106
+    2300142: Mesh108
+    2300144: Mesh113
+    2300146: Mesh117
+    2300148: Mesh120
+    2300150: Mesh123
+    2300152: Mesh22
+    2300154: Mesh31
+    2300156: Mesh43
+    2300158: Mesh47
+    2300160: Mesh50
+    2300162: Mesh53
+    2300164: Mesh55
+    2300166: Mesh57
+    2300168: Mesh60
+    2300170: Mesh62
+    2300172: Mesh65
+    2300174: Mesh67
+    2300176: Mesh79
+    2300178: Mesh96
+    2300180: Mesh99
+    2300182: Object038
+    2300184: Object040
+    2300186: Object047
+    2300188: Object057
+    2300190: Object068
+    2300192: Object069
+    2300194: Object077
+    2300196: Object079
+    2300198: Object080
+    2300200: Object081
+    2300202: Object082
+    2300204: Object083
+    2300206: Plane
+    2300208: "\uCDF8\u8DB3?"
+    3300000: Bip01
+    3300002: Bip01 Head
+    3300004: Bip01 L 11
+    3300006: Bip01 L 12
+    3300008: Bip01 L 13
+    3300010: Bip01 L 15
+    3300012: Bip01 L 16
+    3300014: Bip01 L 17
+    3300016: Bip01 L 19
+    3300018: Bip01 L Ca
+    3300020: Bip01 L Cl
+    3300022: Bip01 L F0
+    3300024: Bip01 L F1
+    3300026: Bip01 L F3
+    3300028: Bip01 L F4
+    3300030: Bip01 L F5
+    3300032: Bip01 L F7
+    3300034: Bip01 L F8
+    3300036: Bip01 L F9
+    3300038: Bip01 L Fi
+    3300040: Bip01 L Fo
+    3300042: Bip01 L Ha
+    3300044: Bip01 L Th
+    3300046: Bip01 L To
+    3300048: Bip01 L Up
+    3300050: Bip01 Neck
+    3300052: Bip01 Pelv
+    3300054: Bip01 R 11
+    3300056: Bip01 R 12
+    3300058: Bip01 R 13
+    3300060: Bip01 R 15
+    3300062: Bip01 R 16
+    3300064: Bip01 R 17
+    3300066: Bip01 R 19
+    3300068: Bip01 R Ca
+    3300070: Bip01 R Cl
+    3300072: Bip01 R F0
+    3300074: Bip01 R F1
+    3300076: Bip01 R F3
+    3300078: Bip01 R F4
+    3300080: Bip01 R F5
+    3300082: Bip01 R F7
+    3300084: Bip01 R F8
+    3300086: Bip01 R F9
+    3300088: Bip01 R Fi
+    3300090: Bip01 R Fo
+    3300092: Bip01 R Ha
+    3300094: Bip01 R Th
+    3300096: Bip01 R To
+    3300098: Bip01 R Up
+    3300100: Bip01 Spi0
+    3300102: Bip01 Spi1
+    3300104: Bip01 Spin
+    3300106: Componen12
+    3300108: Componen21
+    3300110: Componen29
+    3300112: Componen30
+    3300114: Componen32
+    3300116: Componen33
+    3300118: Componen38
+    3300120: Componen39
+    3300122: Componen52
+    3300124: Componen56
+    3300126: Componen57
+    3300128: Componen61
+    3300130: Componen62
+    3300132: Componen70
+    3300134: Componen71
+    3300136: Mesh101
+    3300138: Mesh103
+    3300140: Mesh106
+    3300142: Mesh108
+    3300144: Mesh113
+    3300146: Mesh117
+    3300148: Mesh120
+    3300150: Mesh123
+    3300152: Mesh22
+    3300154: Mesh31
+    3300156: Mesh43
+    3300158: Mesh47
+    3300160: Mesh50
+    3300162: Mesh53
+    3300164: Mesh55
+    3300166: Mesh57
+    3300168: Mesh60
+    3300170: Mesh62
+    3300172: Mesh65
+    3300174: Mesh67
+    3300176: Mesh79
+    3300178: Mesh96
+    3300180: Mesh99
+    3300182: Object038
+    3300184: Object040
+    3300186: Object047
+    3300188: Object057
+    3300190: Object068
+    3300192: Object069
+    3300194: Object077
+    3300196: Object079
+    3300198: Object080
+    3300200: Object081
+    3300202: Object082
+    3300204: Object083
+    3300206: Plane
+    3300208: "\uCDF8\u8DB3?"
+    4300000: Object038
+    4300002: Object069
+    4300004: Object083
+    4300006: Object081
+    4300008: Object080
+    4300010: Plane
+    4300012: Object057
+    4300014: Object040
+    4300016: Object079
+    4300018: Object082
+    4300020: Object077
+    4300022: Mesh55
+    4300024: Mesh65
+    4300026: Mesh60
+    4300028: Componen33
+    4300030: Mesh43
+    4300032: Mesh22
+    4300034: Mesh67
+    4300036: Componen12
+    4300038: Componen38
+    4300040: Mesh47
+    4300042: Componen30
+    4300044: Mesh123
+    4300046: Mesh31
+    4300048: Componen21
+    4300050: Mesh101
+    4300052: Mesh57
+    4300054: Mesh79
+    4300056: Componen32
+    4300058: Mesh50
+    4300060: Mesh106
+    4300062: Mesh108
+    4300064: "\uCDF8\u8DB3?"
+    4300066: Componen62
+    4300068: Componen71
+    4300070: Mesh103
+    4300072: Mesh120
+    4300074: Mesh99
+    4300076: Componen39
+    4300078: Componen70
+    4300080: Componen61
+    4300082: Componen56
+    4300084: Componen57
+    4300086: Componen29
+    4300088: Mesh62
+    4300090: Mesh53
+    4300092: Mesh113
+    4300094: Componen52
+    4300096: Mesh117
+    4300098: Mesh96
+    4300100: Bip01
+    4300102: Bip01 Pelv
+    4300104: Bip01 Spin
+    4300106: Bip01 Spi0
+    4300108: Bip01 Spi1
+    4300110: Bip01 Neck
+    4300112: Bip01 R Cl
+    4300114: Bip01 R Up
+    4300116: Bip01 R Fo
+    4300118: Bip01 R Ha
+    4300120: Bip01 R Fi
+    4300122: Bip01 R F0
+    4300124: Bip01 R F1
+    4300126: Bip01 R 11
+    4300128: Bip01 R 12
+    4300130: Bip01 R 13
+    4300132: Bip01 R 15
+    4300134: Bip01 R 16
+    4300136: Bip01 R 17
+    4300138: Bip01 R F7
+    4300140: Bip01 R F8
+    4300142: Bip01 R F9
+    4300144: Bip01 R F3
+    4300146: Bip01 R F4
+    4300148: Bip01 R F5
+    4300150: Bip01 L Cl
+    4300152: Bip01 L Up
+    4300154: Bip01 L Fo
+    4300156: Bip01 L Ha
+    4300158: Bip01 L 15
+    4300160: Bip01 L 16
+    4300162: Bip01 L 17
+    4300164: Bip01 L 11
+    4300166: Bip01 L 12
+    4300168: Bip01 L 13
+    4300170: Bip01 L F7
+    4300172: Bip01 L F8
+    4300174: Bip01 L F9
+    4300176: Bip01 L F3
+    4300178: Bip01 L F4
+    4300180: Bip01 L F5
+    4300182: Bip01 L Fi
+    4300184: Bip01 L F0
+    4300186: Bip01 L F1
+    4300188: Bip01 Head
+    4300190: Bip01 R Th
+    4300192: Bip01 R Ca
+    4300194: Bip01 R 19
+    4300196: Bip01 R To
+    4300198: Bip01 L Th
+    4300200: Bip01 L Ca
+    4300202: Bip01 L 19
+    4300204: Bip01 L To
+    4300206: Object047
+    4300208: Object068
+    7400000: Base stack
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
